@@ -1,0 +1,278 @@
+* {
+    box-sizing: border-box;
+}
+.i {
+    font-size: 17px;
+}
+.icons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn {
+    background-color: #156963;
+    padding: 4px 20px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+.h {
+    font-size: 68px;
+    width: 100%;
+    color: #156963;
+}
+.p {
+    width: 100%;
+    text-align: justify;
+    color: silver;
+}
+.o {
+    width: 48%;
+}
+.k  {
+    width: 35.5%;
+}
+.y {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0;
+}
+.Plant {
+    font-size: 32px;
+    color: #156963;
+    margin: 0;
+}
+.z {
+    color: gray;
+}
+.yui {
+    display: flex;
+    flex-wrap: wrap;
+}
+.sd {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #156963;
+}
+.yu {
+    padding: 7px;
+}
+.ui  {
+    background-color: #156963;
+    padding: 7px;
+}
+.ih {
+    margin-bottom: 50px;
+}
+.gh {
+    color: white;
+}
+.ko {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.k {
+    width: 40%;
+}
+.fhg {
+    color: #156963;
+    font-size: 30px;
+}
+.ilp {
+    border: 3px solid silver;
+    width: 268px;
+    padding: 20px;
+}
+.oi {
+    text-align: left;
+    color: #2C1500;
+    font-size: 10px;
+}
+
+.fat {
+    font-size: 16px;
+    font-weight: bold;
+    color: #156963;
+    width: 50px;
+}
+.tr {
+    font-size: 35px;
+}
+.ip {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.ih {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-bottom: 2px solid silver;
+}
+.ico {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.fj {
+    width: 150px;
+}
+.box {
+    width: 217px;
+    text-align: center;
+}
+.boxs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.hhh {
+    font-size: 40px;
+    max-width: 400px;
+    font-weight: bold;
+}
+.input {
+    font-size: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+.kuo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.content {
+    font-size: 16px; 
+    color: #2C1500;
+    max-width:  406px;
+}
+.gu {
+    width: 100%;
+}
+.gul {
+    width: 100%;
+    background-color: #F3F4F6;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.hh {
+    font-size: 40px;
+    width: 100%;
+    font-weight: 700;
+    color: #2C1500;
+}
+.hjj {
+    color: #156963;
+}
+.hous  {
+    font-weight: bold;
+    font-size: 13px;
+}
+.tyr {
+    font-size: 16px;
+    font-weight: bold;
+}
+.jou {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.tyu {
+    width: 282px;
+    font-size: 16px;
+    color: silver;
+}
+.zds {
+    background-color: #156963;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.ytr {
+    color: black;
+}
+@media(max-width:1104px){
+    .box {
+    width: 25%;
+    }
+}
+@media(max-width:1098px){
+    .iuo, .ku {
+    width: 100%;
+    }
+}
+@media(max-width:1088px){
+    .ilo {
+    width: 100%;
+    }
+}
+@media(max-width:1062px){
+    .ul, .gu {
+    width: 100%;
+    }
+}
+@media(max-width:1011px){
+    .o, .k {
+    width: 100%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    }
+}
+@media(max-width:842px){
+    .box {
+    width: 31%;
+    }
+    .boxs {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        column-gap:3.5%;
+    }
+}
+@media(max-width:827px){
+    .ill {
+    width: 100%;
+    }
+}
+@media(max-width:718px){
+    .plp {
+    width: 100%;
+    }
+}
+@media(max-width:655px){
+    .box {
+    width: 45%;
+    }
+    .boxs {
+        column-gap: 0;
+    }
+}
+@media(max-width:585px){
+    .ilp {
+    width: 100%;
+    }
+}
+@media(max-width:547px){
+    .ui, .yu {
+    width: 100%;
+    }
+    .lppl {
+        width: 100%;
+    }
+}
+@media(max-width:477px){
+    .plar {
+    width: 100%;
+    }
+}
+@media(max-width:414px){
+    .box {
+    width: 100%;
+    }
+}
